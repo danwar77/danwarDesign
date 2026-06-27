@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Local visual verification captures
+preview-*.png
+
 # =========================
 # Operating System Files
 # =========================
