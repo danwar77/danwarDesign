@@ -32,3 +32,4 @@ Modernizar `danwardesign.html` como landing page bilingue para Danwar Design, co
 - [x] Evidencia registrada en loop state/review ledger.
 - [x] Estructura `assets/` creada para CSS, JS e imagenes futuras.
 - [x] CSS y JS extraidos del HTML manteniendo la pagina funcional.
+- [x] Oferta actualizada para incluir IA Engineer y aplicaciones con IA para Flutter.

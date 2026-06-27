@@ -5,6 +5,7 @@ Danwar Design es una landing page estatica para una agencia creativa digital enf
 
 - Visuales y mundos 3D con Blender.
 - Diseno y desarrollo web moderno.
+- Ingenieria IA y aplicaciones con IA para Flutter.
 - Direccion visual para mejorar marcas.
 - Contenido bilingue: Espanol por defecto e Ingles como alternativa.
 
@@ -46,7 +47,7 @@ El archivo principal es `danwardesign.html`.
 - Mantener la pagina funcional como sitio estatico.
 
 ## Estilo Visual
-- Estetica actual: dark premium, gradientes cian/violeta/lima, cards glass, composicion 3D abstracta.
+- Estetica actual: dark premium, gradientes cian/violeta/lima, cards glass, composicion IA/3D abstracta.
 - Espanol debe aparecer primero por defecto.
 - Ingles debe funcionar con el selector ES/EN.
 - La web debe poder verse bien aunque no haya imagenes reales.
@@ -98,12 +99,13 @@ Pueden regenerarse tras cambios visuales.
 ## Contenido Base
 Mensaje central:
 
-- "Hacemos tu marca mas memorable."
-- "Convertimos ideas en experiencias digitales: visuales 3D con Blender, sitios web modernos y una presencia de marca lista para vender, presentar y crecer."
+- "Hacemos tu marca mas inteligente."
+- "Soy IA Engineer y desarrollamos aplicaciones con IA para Flutter, visuales 3D con Blender, sitios web modernos y una presencia de marca lista para vender, presentar y crecer."
 
 Servicios clave:
 - Sueno 3D con Blender.
 - Web como la imaginas.
+- Apps IA para Flutter.
 - Marca con direccion.
 
 ## Notas Para Futuros Agentes
