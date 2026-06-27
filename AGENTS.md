@@ -52,6 +52,8 @@ El archivo principal es `danwardesign.html`.
 - Ingles debe funcionar con el selector ES/EN.
 - La web debe poder verse bien aunque no haya imagenes reales.
 - Cuando se anadan imagenes o renders, ubicarlos en `assets/img/`.
+- Logo actual: `assets/img/danwar77-logo-header.png`, generado desde `C:/MARCA_PERSONAL/marca5.png`.
+- Favicon/icono: `assets/img/danwar77-logo-icon.png`.
 
 ## Reglas Tecnicas
 - HTML: `danwardesign.html`.
@@ -112,4 +114,5 @@ Servicios clave:
 - Este repo venia de una plantilla antigua con recursos faltantes.
 - La modernizacion actual evita depender de assets que no existen.
 - Si se desea una version mas visual, crear renders o imagenes en `assets/img/` y referenciarlos desde el HTML/CSS.
+- Mantener las variantes del logo en `assets/img/`; el header usa una composicion horizontal para no romper la navegacion.
 - Si se anade build tooling, documentarlo aqui y mantener una forma simple de servir el sitio estatico.
