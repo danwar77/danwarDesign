@@ -9,11 +9,11 @@ Danwar Design es una landing page estatica para una agencia creativa digital enf
 - Direccion visual para mejorar marcas.
 - Contenido bilingue: Espanol por defecto e Ingles como alternativa.
 
-El archivo principal es `danwardesign.html`.
+El archivo principal es `danwardesign77.html`.
 
 ## Estado Actual
 - Rama base: `master`.
-- Pagina servida localmente en `http://127.0.0.1:5177/danwardesign.html`.
+- Pagina servida localmente en `http://127.0.0.1:5177/danwardesign77.html`.
 - La landing moderna ya reemplazo la plantilla antigua.
 - La pagina esta separada en HTML, CSS y JS.
 - Estado del loop: `state/loops/danwar-design-modernization.json`.
